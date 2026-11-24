@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+owner_faces/
+password.hash
+*.log
+*.exe
+*.bat
+build/
+dist/
+*.spec
